@@ -1,6 +1,5 @@
 """
 Huba Ferenc Benzar
-201262833
 """
 #Importing packages
 import os                               #OS
